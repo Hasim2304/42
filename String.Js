@@ -7,6 +7,8 @@ var string ="Thlapathy vijay"
 // console.log(string.charAt(3));
 for(i=0; i<string.length; i++){
     console.log(string[i]);}
+    console.log(hasim);
+    
     
 
 
